@@ -1,9 +1,0 @@
-numpy
-opencv-python
-pillow
-scikit-image
-scipy
-torch>=2.2
-torchvision>=0.17
-tqdm
-albumentations
