@@ -1,3 +1,4 @@
 *.pix
 *.xml
 *.gpr
+app/static/
